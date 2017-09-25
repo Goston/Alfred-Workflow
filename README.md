@@ -1,7 +1,7 @@
 # Goston Alfred Workflows
 
 ## iTunes 相關
----
+
 ### Love this Track
 
 將目前 iTunes 正播放的曲目打❤️。
@@ -24,6 +24,6 @@
 
 ---
 
-以上在
+以上在動作完成後，通知中心會收到相關通知：
 
 ![Screenshot](https://github.com/Goston/Quiver-Theme/blob/master/Screenshot.png)
