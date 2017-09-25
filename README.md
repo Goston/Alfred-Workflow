@@ -10,6 +10,8 @@
 
 ![Love this Track](https://github.com/Goston/Alfred-Workflow/blob/master/LoveThisTrack.png)
 
+![Unlove this Track](https://github.com/Goston/Alfred-Workflow/blob/master/UnloveThisTrack.png)
+
 ### Stars this Track
 
 將目前 iTunes 正播放的曲目打 1 到 5 顆星。
