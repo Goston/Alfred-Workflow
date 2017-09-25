@@ -26,4 +26,4 @@
 
 以上在動作完成後，通知中心會收到相關通知：
 
-![Screenshot](https://github.com/Goston/Quiver-Theme/blob/master/Screenshot.png)
+![Screenshot](https://github.com/Goston/Alfred-Workflow/blob/master/Screenshot.png)
